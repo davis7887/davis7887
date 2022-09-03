@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 * Refining data wrangling and cleaning skills in R Studio
 
 ### 🌟 Connect 🌟
-* [LinkedIn](www.linkedin.com/in/danielle-davis-560152142)
+* [LinkedIn](https://www.linkedin.com/in/danielle-davis-560152142/)
 * [Kaggle](https://www.kaggle.com/danid7878)
