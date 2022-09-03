@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# Hello there lovely human 💖
 <!--
 **davis7887/davis7887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---------------------
+<img src="https://21066571.fs1.hubspotusercontent-na1.net/hubfs/21066571/hiking.jpg" width="400" height="200" />
+
+### I'm Danielle, Data Analyst and hiking enthusiast from Utah 🥾
+---------------------
+
+### ✨ A bit about me ✨
+* Administrative background with 6 years experience in maintaining databases and data accuracy 🖥
+* Transition into Data Analytics March 2022 with completion of the Google Data Analytics Course ✏️
+* Endlessy curious hence my love of deep analysis to find answers and expand my knowledge 🧐
+* Love exploring what I can do with data using SQL, R, and Tableau. They make the data make sense 🙌
+
+### 📚 Projects 📚
+* Click HERE for SQL projects 
+* Markdown projects are found HERE 
+* For Tableau visualizations click HERE
+
+### 📈 Competencies 📈
+* Tools: SQL, R, Tableau, Excel/Sheets
+* Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
+
+### ⚡️ Currently ⚡️
+* Expanding my SQL query knowledge and implementation 
+* Exploring Tableau parameters and user selected filters
+* Refining data wrangling and cleaning skills in R Studio
+
+### 🌟 Connect 🌟
+* [LinkedIn](www.linkedin.com/in/danielle-davis-560152142)
+* [Kaggle](https://www.kaggle.com/danid7878)
