@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 * Love exploring what I can do with data using SQL, R, and Tableau. They make the data make sense 🙌
 
 ### 📚 Projects 📚
-* Click HERE for my projects 
+* Click [HERE](https://github.com/davis7887/Portfolio-Guide/blob/main/README.md) for my projects 
 
 ### 📈 Competencies 📈
 * Tools: SQL, R, Tableau, Excel/Sheets
